@@ -1,2 +1,2 @@
 transformers
-pip install 'transformers[torch]'
+'transformers[torch]'
